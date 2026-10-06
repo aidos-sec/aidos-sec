@@ -1,11 +1,19 @@
-# Hi there 👋
+Hi, I'm Aidos 👋
 
-I'm Aidos, a cybersecurity student learning backend engineering and ML.
+Cybersecurity student focused on SOC, Blue Team and Security Monitoring.
 
-🔐 Interested in: security monitoring, anomaly detection, blue team operations.
+Currently learning:
+- SOC Operations
+- SIEM / Wazuh
+- Networking
+- Incident Investigation
+- Linux & Windows Security
 
-🔭 Featured project: [system-monitor-ai](https://github.com/aidos-sec/system-monitor-ai) —
-real-time system monitoring with AI-based load prediction.
-Built to explore how ML can detect abnormal system behavior before it becomes an incident.
+Projects:
+🛡️ Home SOC Lab
+🎣 Phishing Email Analyser
+📊 System Monitor AI
 
-🌱 Currently learning: Python, networking, Linux, SIEM basics.
+Tools:
+Linux | Windows | Wazuh | Wireshark | Nmap |
+Burp Suite | Git | Python
