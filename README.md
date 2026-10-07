@@ -42,3 +42,8 @@ Wazuh • SIEM • Sysmon • MITRE ATT&CK • Networking • Incident Response
 - Expand Windows telemetry with Sysmon
 - Practice MITRE ATT&CK mapping and incident reporting
 - Continue building a practical cybersecurity portfolio
+
+## 📫 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/aidos-suyundik-87420b3b8)  
+🐙 [GitHub](https://github.com/aidos-sec)
